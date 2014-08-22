@@ -5,6 +5,8 @@ class BinarySearch {
 		System.out.print("The index of specified number is at: " + binarySearch(arr, 12));
 	}
 	
+	// Binary Search Implementation 
+	
 	public static int binarySearch(int [] arr, int num){
 		int start = 0; 
 		int end = arr.length -1; 
