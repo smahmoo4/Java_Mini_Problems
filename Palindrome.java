@@ -1,3 +1,5 @@
+//checks if String is a Palindrome  racecar -> true, level-> false 
+
 class Palindrome {
 	public static void main(String[] args) {
 		
