@@ -1,3 +1,6 @@
+//Sieve of Erasthasones
+//getting all prime numbers <= n 
+
 class Sieve {
 	public static void main(String[] args) {
 	
