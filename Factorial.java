@@ -1,3 +1,5 @@
+// calculates the factorial of an int n recursively
+
 class Factorial {
 	public static void main(String[] args) {
 		
