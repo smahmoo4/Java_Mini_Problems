@@ -1,5 +1,7 @@
 import java.util.ArrayList; 
 
+
+// this program deletes all copies of the integer and returns an arraylist with exactly one of each type of element 
 class Duplicates {
 	public static void main(String[] args) {
         
