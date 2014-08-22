@@ -1,4 +1,6 @@
-class selectionSort2 {
+//use selection sort
+
+class selectionSort {
 	public static void main(String[] args) {
 		int [] arr = {13,0,-4,6,8,2,5,11};
 		//Print(selectionSort(arr));
