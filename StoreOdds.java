@@ -1,3 +1,5 @@
+//return all odd numbers in a range
+
 class StoreOdds {
 	public static void main(String[] args) {
 		Print(calcOdds(-6,38));
