@@ -2,7 +2,10 @@ import java.util.Scanner;
 import java.io.*;
 
 public class CountLetter {
-
+//this program counts the number of each letter of the alphabet from two text files and outputs them like
+// 'a' = 0
+// 'b' = 2
+// etc 
 public static void main(String[] args) throws Exception {
 
 
