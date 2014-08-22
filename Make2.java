@@ -1,3 +1,4 @@
+// return the two elements from two arrays, if first array has 2 or more return the first two of array A, same for array B, else return 1 from each
 class Make2 {
     public static void main(String[] args) {
         int [] x  = {};
