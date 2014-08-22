@@ -1,3 +1,6 @@
+//this program filters out LIDAR data points to show a road's boundaries
+// dependent on MaxIntensity and MaxHeight of data points 
+
 import java.io.*;
 import java.util.*; 
 import java.math.BigDecimal; 
