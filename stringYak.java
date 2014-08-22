@@ -1,3 +1,5 @@
+// delete all instances of the word 'yak' in a string, except the 'a' in 'yak' can be ANY character 
+
 class stringYak {
 public static void main(String[] args) {
         System.out.println(stringYak("yesyesyakno"));
