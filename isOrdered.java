@@ -1,3 +1,6 @@
+//return all n digit long numbers that are ordered, meaning first digit is less than second digit which is less than nth digit
+// example if n = 4; then some ordered numbers are 1234 1245 4567 etc
+
 import java.util.ArrayList;
 import static java.lang.Math.pow;  
 class isOrdered {
