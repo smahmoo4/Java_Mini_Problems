@@ -1,3 +1,5 @@
+//swap pairs in an ArrayList
+
 import java.util.ArrayList; 
 class swapPairs {
 	public static void main(String[] args) {
