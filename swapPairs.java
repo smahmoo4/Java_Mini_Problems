@@ -1,5 +1,3 @@
-//swap pairs in an ArrayList
-
 import java.util.ArrayList; 
 class swapPairs {
 	public static void main(String[] args) {
@@ -15,7 +13,7 @@ class swapPairs {
 		
 		System.out.println("ArrayList before swap: "+aL);
 					
-	  System.out.println("ArrayList after swap: "+swapPairs(aL));
+	  System.out.println("ArrayList after swap:  "+swapPairs(aL));
 	}
 	
 	public static ArrayList swapPairs (ArrayList<String> a)

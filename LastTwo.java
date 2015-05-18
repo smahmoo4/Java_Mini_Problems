@@ -1,6 +1,6 @@
 class LastTwo {
     public static void main(String[] args) {
-        System.out.println(lastTwo("coding"));
+        System.out.println(lastTwo("co"));
     }
 
 

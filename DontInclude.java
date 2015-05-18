@@ -1,13 +1,11 @@
-public class DontInclude{	
-
-  public static void main(String[] args) {
+class DontInclude {
+	public static void main(String[] args) {
 		
 		int arr [] = {1,2,3,4,5}; 
 		
 		Print(dontInclude(arr)); 
 		
 	}
-	//this method multiplies together all elements in an array except for the index it is currently at
 	
 	public static int [] dontInclude(int [] arr) {
 		int num = 0; 
@@ -27,12 +25,15 @@ public class DontInclude{
 	}
 	
 	private static void Print(int[] arr) {
+		System.out.print("{ ");
+
+		for(int k = 0; k<arr.length; k++)
+			{
+				System.out.print("["+arr[k] + "] ");
+			}	
 			
-		for(int k = 0; k<arr.length; k++) {
-				System.out.print(arr[k] + " ");
-		}	
+		System.out.println("}");
 			
-		System.out.println("---");
-			
-	}
+		}
 }
+

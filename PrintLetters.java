@@ -1,5 +1,3 @@
-//prints letters in a string individually
-
 class PrintLetters {
 	public static void main(String[] args) {
 		printLetters("Saad");

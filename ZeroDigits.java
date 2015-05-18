@@ -1,4 +1,3 @@
-//counts the numbers of zeros in a number 
 class ZeroDigits {
 	public static void main(String[] args) {
 	System.out.println(zeroDigits(1020304050));	

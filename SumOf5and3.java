@@ -1,4 +1,3 @@
-//add all multopls of 5 and 3 up to parameter 'n'
 class SumOf5and3 {
 	public static void main(String[] args) {
 		System.out.println(sumOf5And3(1000));

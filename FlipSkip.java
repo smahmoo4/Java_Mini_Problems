@@ -1,9 +1,3 @@
-//flips n segments, skips n segments, repeats
-
-//ex flipSkip({1,2,3,4,5,6} , 2) == {2,1,3,4,6,5}
-
-
-
 class FlipSkip {
 
 		public static void main(String[] args) throws Exception {

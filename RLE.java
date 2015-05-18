@@ -1,6 +1,3 @@
-//compression of data aka Run Length Encoding (RLE) 
-// runLengthEncoding("AABBBCCC") -> 2A3B3C
-
 class RLE {
 	public static void main(String[] args) {
 		String str = "AAAABBBBCCCCCDDDDDDEEEFFFFGGGHHFF";

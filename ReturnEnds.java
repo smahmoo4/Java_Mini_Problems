@@ -1,5 +1,3 @@
-//returns first & last element of the array
-
 class ReturnEnds {
     public static void main(String[] args) {
         int x [] = {7,4,5,6,1,2,3};

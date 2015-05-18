@@ -1,7 +1,3 @@
-//from CareerCup.com
-// assortment of mini problems that were solved 
-
-
 class CareerCupQuestions {
 	public static void main(String[] args) {
 		int arr[] = {2,3,5,4,6,7,8,9};
@@ -91,7 +87,7 @@ public static void allPrimes(int num)
 
 	public static boolean isPrime(int num){
 
-	for (int i = 2; i*i<num; i++) 
+	for (int i = 2; i*i<=num; i++) 
 	{
 		 if(num%i==0)
 			return false; 

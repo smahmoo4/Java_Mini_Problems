@@ -1,5 +1,3 @@
-//various mini problems involving strings
-
 class StringArrays{
 	public static void main(String[] args) {
 		
